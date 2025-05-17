@@ -10,11 +10,18 @@ I wrote this as practice in breaking down a developer problem into parts and str
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
+Visual Studio Code
 
-{Describe the tools that you used to develop the software}
+.NET 8.0
 
-{Describe the programming language that you used and any libraries.}
-la
+Programming Language: C#
+
+System.Net.Http for API calls
+
+System.Text.Json for parsing JSON responses
+
+Open Library API
+
 # Useful Websites
 
 
